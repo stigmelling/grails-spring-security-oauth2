@@ -247,6 +247,7 @@ class SpringSecurityOAuth2Controller {
      * @param oAuthToken
      * @param redirectUrl
      */
+//    protected void authenticateAndRedirect( OAuth2SpringToken oAuthToken, redirectUrl) {
     protected void authenticateAndRedirect(@Nullable OAuth2SpringToken oAuthToken, redirectUrl) {
         session.removeAttribute SPRING_SECURITY_OAUTH_TOKEN
         SecurityContextHolder.context.authentication = oAuthToken

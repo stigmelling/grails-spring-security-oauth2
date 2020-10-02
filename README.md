@@ -1,5 +1,8 @@
 Spring Security OAuth2 Plugin
 =======
+Dette er en kopi av https://github.com/grails-plugins/grails-spring-security-oauth2
+Denne kopien kan slettes så fort orignalen får grails 4 støtte i publiserte pakker. 
+
 [![Build Status](https://travis-ci.org/grails-plugins/grails-spring-security-oauth2.svg?branch=master)](https://travis-ci.org/grails-plugins/grails-spring-security-oauth2) [ ![Download](https://api.bintray.com/packages/grails/plugins/spring-security-oauth2/images/download.svg) ](https://bintray.com/grails/plugins/spring-security-oauth2/_latestVersion)
 
 Main differences with the Grails 2 plugin:
